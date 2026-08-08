@@ -233,19 +233,3 @@ mern-task-distribution-system/
 - **Axios** - HTTP client
 - **Context API** - State management
 
-## Security Features
-
-- Password hashing with bcrypt
-- JWT token authentication
-- Input validation and sanitization
-- CORS configuration
-- Error handling middleware
-
-## Error Handling
-
-The application includes comprehensive error handling:
-- API validation errors
-- File upload errors
-- Authentication errors
-- Database connection errors
-- Client-side error boundaries
